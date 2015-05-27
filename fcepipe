@@ -1,0 +1,5 @@
+#! /bin/bash
+
+cd ~
+cd MingProject/git-fcfe/nirvana-workspace
+sh start-epipe.sh

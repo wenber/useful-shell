@@ -1,0 +1,8 @@
+#! /bin/bash
+
+cd ~
+cd MingProject/git-fcfe
+cd nirvana-workspace
+dir=$1
+# 默认打开nirvanaII
+sub ./${dir:='nirvanaII'}
